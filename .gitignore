@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+node_modules/
+dist/
+/tmp/*.wav
+/tmp/*.jpg
+gesture_recognizer.task

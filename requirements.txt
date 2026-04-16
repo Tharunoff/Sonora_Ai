@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+deepface
+mediapipe
+librosa
+soundfile
+numpy
+requests
+google-generativeai
+python-dotenv
+websockets==12.0
+pyngrok==7.1.5
+httpx>=0.27.0
